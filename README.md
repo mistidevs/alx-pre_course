@@ -1,1 +1,1 @@
-My first readme
+Focusing on getting things right.
